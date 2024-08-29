@@ -8,7 +8,7 @@ It has all the necessary changes to create a proof of a very simplistic homomorp
 
 - [Rust](https://rustup.rs/)
 - [SP1](https://succinctlabs.github.io/sp1/getting-started/install.html)
-- [Simple LWE lib] (https://github.com/gkigiermo/simple-lwe.git)
+- [Simple LWE lib](https://github.com/gkigiermo/simple-lwe.git)
 
 ## Running the Project
 
