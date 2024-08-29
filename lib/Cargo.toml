@@ -1,7 +1,8 @@
 [package]
-name = "fibonacci-lib"
+name = "lwe-lr-lib"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 alloy-sol-types = { workspace = true }
+simple_lwe = {path = "/home/gkigiermo/ZK/simple-lwe"}
