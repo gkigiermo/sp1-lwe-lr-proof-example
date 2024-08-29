@@ -1,7 +1,8 @@
-# SP1 Project Template
+# SP1 homomorphic linear regression
 
-This is a template for creating an end-to-end [SP1](https://github.com/succinctlabs/sp1) project
+This is an adaptation of the template for creating an end-to-end [SP1](https://github.com/succinctlabs/sp1) project
 that can generate a proof of any RISC-V program.
+It has all the necessary changes to create a proof of a very simplistic homomorphic linear regression.
 
 ## Requirements
 
