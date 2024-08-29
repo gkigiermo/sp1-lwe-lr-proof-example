@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 alloy-sol-types = { workspace = true }
-simple_lwe = {path = "/home/gkigiermo/ZK/simple-lwe"}
+simple_lwe = {path = "{PATH_TO_SIMPLE_LWE}"}
