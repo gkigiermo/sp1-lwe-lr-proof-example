@@ -4,7 +4,7 @@ name = "lwe-lr-program"
 edition = "2021"
 
 [dependencies]
-simple_lwe = {path = "/home/gkigiermo/ZK/simple-lwe"}
+simple_lwe = {path = "{PATH_TO_SIMPLE_LWE}"}
 alloy-sol-types = { workspace = true }
 sp1-zkvm = "1.1.0"
 lwe-lr-lib = { path = "../lib" }
