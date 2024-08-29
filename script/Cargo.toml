@@ -25,7 +25,7 @@ tracing = "0.1.40"
 hex = "0.4.3"
 alloy-sol-types = { workspace = true }
 lwe-lr-lib = { path = "../lib" }
-simple_lwe = {path = "/home/gkigiermo/ZK/simple-lwe"}
+simple_lwe = {path = "{PATH_TO_SIMPLE_LWE}"}
 
 [build-dependencies]
 sp1-helper = "1.1.0"
